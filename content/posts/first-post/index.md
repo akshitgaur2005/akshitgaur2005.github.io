@@ -25,9 +25,9 @@ ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
 cover:
-    image: "/posts/first-post/img/menhera.jpg" # image path/url
+    image: "/posts/first-post/img/1.jpg" # image path/url
     alt: "<alt text>" # alt text
-    caption: "<text>" # display caption under cover
+    caption: "*Yes, I do not know how to take a selfie, get off my back about it!*" # display caption under cover
     relative: true # when using page bundles set this to true
     hidden: false # only hide on current single page
     hiddenInList: false
@@ -48,4 +48,4 @@ Good morning everyone!
 
 I am Akshit Gaur, an Undergraduate student currently pursuing B.Tech. in Computer Science from Jawaharlal Nehru University, New Delhi (yes, it does offer Engineering courses).
 
-I am alright in academics and a failure in sports but where I truly shine is in front of a computer. I have been using linux since I was in class 8  and have successfully converted many-a-people to this religion.
+I am alright in academics and a failure in sports but where I truly shine is in front of a computer. I have been using linux since I was in class 8  and have successfully converted many-a-people to this religion. Open Source software deeply interests me, how such a wide group of people can come together to create a coherent piece of code is such a fascinating thing to witness (*Nix hurt itself in its confusion*).
