@@ -46,6 +46,6 @@ Good morning everyone!
 
 ### A bit about myself
 
-I am Akshit Gaur, an Undergraduate student currently pursuing B.Tech. in Computer Science from Jawaharlal Nehru University, New Delhi (yes, it does offer Engineering courses).
+I am Akshit Gaur, pursuing B.Tech. in Computer Science from Jawaharlal Nehru University, New Delhi (yes, it does offer Engineering courses).
 
 I am alright in academics and a failure in sports but where I truly shine is in front of a computer. I have been using linux since I was in class 8  and have successfully converted many-a-people to this religion. Open Source software deeply interests me, how such a wide group of people can come together to create a coherent piece of code is such a fascinating thing to witness (*Nix hurt itself in its confusion*).
