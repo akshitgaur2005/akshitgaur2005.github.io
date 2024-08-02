@@ -33,7 +33,7 @@ cover:
     hiddenInList: false
     hiddenInSingle: false
 editPost:
-    URL: "https://github.com/akshitgaur2005/my-website/content"
+    URL: "https://github.com/akshitgaur2005/akshitgaur2005.github.io/tree/main/content"
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 ---

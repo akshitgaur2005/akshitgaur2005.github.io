@@ -1,4 +1,4 @@
-baseURL: "https://examplesite.com/"
+baseURL: "https://akshitgaur2005.github.io/"
 title: Akshit Gaur
 paginate: 5
 theme: PaperMod
@@ -15,7 +15,7 @@ minify:
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: Akshit Gaur
-  description: "My personal website"
+  description: "I am Akshit Gaur and this is my personal website"
   keywords: [Blog, Portfolio, PaperMod]
   author: Akshit Gaur
   # author: ["Me", "You"] # multiple authors
@@ -28,13 +28,13 @@ params:
   ShowShareButtons: true
   ShowPostNavLinks: true
   ShowBreadCrumbs: true
-  ShowCodeCopyButtons: false
+  ShowCodeCopyButtons: true
   ShowWordCount: true
   ShowRssButtonInSectionTermList: true
   UseHugoToc: true
   disableSpecial1stPost: false
   disableScrollToTop: false
-  comments: false
+  comments: true
   hidemeta: false
   hideSummary: false
   showtoc: false
@@ -57,22 +57,22 @@ params:
   # profile-mode
   profileMode:
     enabled: false # needs to be explicitly set
-    title: ExampleSite
+    title: Akshit Gaur
     subtitle: "This is subtitle"
-    imageUrl: "<img location>"
+    imageUrl: "/profile.jpg"
     imageWidth: 120
     imageHeight: 120
     imageTitle: my image
     buttons:
       - name: Posts
         url: posts
-      - name: Tags
-        url: tags
+      # - name: Tags
+      #   url: tags
 
   # home-info mode
   homeInfoParams:
     Title: "Hi there \U0001F44B"
-    Content: Welcome to my blog
+    Content: I am Akshit Gaur and this is my personal website!
 
   socialIcons:
     # - name: x
@@ -96,10 +96,10 @@ params:
     hiddenInSingle: true # hide on single page
 
   # TODO
-  editPost:
-    URL: "https://github.com/<path_to_repo>/content"
-    Text: "Suggest Changes" # edit text
-    appendFilePath: true # to append file path to Edit link
+  # editPost:
+  #   URL: "https://github.com/<path_to_repo>/content"
+  #   Text: "Suggest Changes" # edit text
+  #   appendFilePath: true # to append file path to Edit link
 
   # for search
   # https://fusejs.io/api/options.html
@@ -118,14 +118,23 @@ menu:
     #   name: categories
     #   url: /categories/
     #   weight: 10
-    - identifier: tags
-      name: tags
-      url: /tags/
+    # - identifier: tags
+    #   name: tags
+    #   url: /tags/
+    #   weight: 20
+    # - identifier: example
+    #   name: example.org
+    #   url: https://example.org
+    #   weight: 30
+    - identifier: Posts
+      name: Posts
+      url: /posts/
+      weight: 10
+
+    - identifier: Projects
+      name: Projects
+      url: /projects/
       weight: 20
-    - identifier: example
-      name: example.org
-      url: https://example.org
-      weight: 30
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
 markup:
