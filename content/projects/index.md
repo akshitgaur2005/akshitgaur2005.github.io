@@ -35,3 +35,11 @@ editPost:
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 ---
+
+**These are the projects that I have undertaken recently**
+
+ - [Time Machine RNN](https://github.com/akshitgaur2005/Time-Machine-RNN)
+
+ - [MLP by Hand](https://github.com/akshitgaur2005/MLP-By-Hand)
+
+ - [Linear Regression by Hand](https://github.com/akshitgaur2005/Linear-Regression-By-Hand)
