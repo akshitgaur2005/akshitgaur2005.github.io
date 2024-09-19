@@ -48,4 +48,8 @@ Good morning everyone!
 
 I am Akshit Gaur, pursuing B.Tech. in Computer Science from Jawaharlal Nehru University, New Delhi (yes, it does offer Engineering courses).
 
-I am alright in academics and a failure in sports but where I truly shine is in front of a computer. I have been using linux since I was in class 8  and have successfully converted many-a-people to this religion. Open Source software deeply interests me, how such a wide group of people can come together to create a coherent piece of code is such a fascinating thing to witness (*Nix hurt itself in its confusion*).
+I am alright in academics and a failure in sports but where I truly shine is in front of a computer. I have been using linux since I was in class 8  and have successfully converted many-a-people to this religion. Open Source software deeply interests me, how such a wide group of people can come together to create a coherent piece of code is such a fascinating thing to witness (*Nix hurt itself in its confusion*). I have not yet had any contribution to any open-source project, mainly because I am not skilled enough for the programs I use and I can't seem to find the less complex projects which may benefit from my "expertise".
+
+What I hope to achieve with this page, I am not so sure myself. Sometimes there will be a devlog for a project which I start but abandon in a month while other times, there might be my opinions on a subject I have neither any relation nor any expertise in, written in such a way to convince you that my opinion is the only one that matters and YOU ARE WRONG!! NO IT DOES NOT MATTER THAT YOU HAVE A PHD IN THE SUBJECT!!
+
+So, let's see what this evolves into, and if it can remain alive even until the end of this year!
