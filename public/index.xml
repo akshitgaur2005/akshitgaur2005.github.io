@@ -9,16 +9,37 @@
       <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
-    <generator>Hugo -- 0.134.0</generator>
+    <generator>Hugo -- 0.134.3</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 14 Aug 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Oct 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What is Nix?</title>
+      <link>http://localhost:1313/posts/nix/</link>
+      <pubDate>Sat, 05 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/nix/</guid>
+      <description>Nix and Friends</description>
+    </item>
+    <item>
+      <title>Yudh Devlog #2</title>
+      <link>http://localhost:1313/posts/yudh/yudh-2/</link>
+      <pubDate>Fri, 23 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/yudh/yudh-2/</guid>
+      <description>Desc Text.</description>
+    </item>
     <item>
       <title>Yudh Devlog #1</title>
       <link>http://localhost:1313/posts/yudh/yudh-1/</link>
       <pubDate>Wed, 14 Aug 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/yudh/yudh-1/</guid>
       <description>Beginning a new project</description>
+    </item>
+    <item>
+      <title>Projects</title>
+      <link>http://localhost:1313/projects/</link>
+      <pubDate>Fri, 02 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/</guid>
+      <description>My Projects</description>
     </item>
     <item>
       <title>Myself</title>
