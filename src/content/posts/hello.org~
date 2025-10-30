@@ -1,0 +1,10 @@
+#+title: Hello
+#+author: Akshit Gaur
+#+DATE: 2025-10-30
+#+TAGS: emacs, org, astro
+* Hello
+** Everyone
+#+begin_src python
+  print("HELLO!")
+  print("World!")
+#+end_src

@@ -1,0 +1,15 @@
+#+title: Hello
+#+author: Akshit Gaur
+#+description: First Blog!
+#+TAGS: emacs, org, astro
+#+OPTIONS: toc:nil
+* Hello
+** Everyone
+#+begin_src python
+  print("HELLO!")
+  print("World!")
+#+end_src
+
+:::caution
+Use caution while using python
+:::

@@ -1,0 +1,22 @@
+---
+title: "Hello"
+published: 2025-10-30
+draft: false
+---
+
+
+
+# Hello
+
+
+## Everyone
+
+```python
+print("HELLO!")
+print("World!")
+```
+
+:::caution
+Use caution while using python
+:::
+
