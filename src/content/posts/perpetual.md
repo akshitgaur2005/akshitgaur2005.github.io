@@ -1,0 +1,86 @@
+---
+title: "Musings"
+published: 2025-11-18
+draft: false
+description: '...'
+tags: ["musings"]
+---
+
+Am I alone?
+
+I think so
+
+But who am I?
+
+You are me
+
+And who is speaking?
+
+I am you
+
+Well that doesn't make any sense
+
+It doesn't have to
+
+But it has to! What am I supposed to do if nothing makes sense?
+
+You are not supposed to do anything
+
+How am I even supposed to live then? If I am supposed to do nothing, what am I even here for?
+
+You use the word "supposed" a lot, don't you?
+
+&#x2026;
+
+One of the quiter ones huh
+
+I am not quite!
+
+Well, to answer your question, again you are not supposed to do anything but tha-
+
+So I am not even supposed to live then?
+
+Let me complete first, yes you are not supposed to do anything but that is different than "supposed to do nothing" you know
+
+You are just confusing me, if I am not supposed to do anything, what is the point of doing ***ANYTHING***?
+
+Again, there is no point
+
+So it doesn't matter if I die?
+
+Death is the only certainty in life as you people say, why do you think yours will be any different this time
+
+Even my parents won't remember me?
+
+They will, but they too will move on
+
+No they won't! They love me!
+
+Yes they love you, but they WILL move on, the same way you moved on from that doll you loved as a kid
+
+I just grew up&#x2026;
+
+So will they. The same way you continue to live on, they will too
+
+If there is no point to anything then why even bother doing anything? Why should I eat? Why should I sleep? Why should I love? Why should I care?
+
+The fact that there is no point, is THE entire point. Nothing needs to make sense because sense is not needed for you to function. You fear things out of your control, that is your bane
+
+Of course I do! I am a human you know, of course I am going to fear things that can hurt me
+
+But you fear things that have no impact on you. You dress up just so people on the street don't mock you, you fear being yourself just so others will like you. Just consider that girl you have a crush on, you analyse every move, both yours and hers, trying to find a signal that may or may not even be there!
+
+So what! Should I just stop caring about others? If nothing matters, should I just go around punching random kids on the street!
+
+You are still doing the same, just dumping the responsibilty of that answer on me
+
+I can't even ask you a question?!
+
+What do you think you have been doing till now :) The problem isn't you asking me a question, the problem is you asking an answer. You refuse to think about it, you refuse to take on that burden because you are afraid of what your answer could be
+
+&#x2026;
+
+&#x2026;
+
+So I don't need other people?
+
